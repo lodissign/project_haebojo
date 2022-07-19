@@ -1,1 +1,1 @@
-# Haebojo_project_somin
+# Haebojo_project_lodis
