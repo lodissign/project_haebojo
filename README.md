@@ -16,7 +16,7 @@ https://lodissign.tistory.com/52
 
 0718MON
 03_프로젝트_기획_2
-https://lodissign.tistory.com/manage/posts/
+https://lodissign.tistory.com/53
 
 0719TUE
 04_01일차_진행사항
